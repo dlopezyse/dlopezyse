@@ -1,16 +1,17 @@
-Hi! 👋 I'm **Diego**, a Data Scientist working on *Machine Learning* :robot: for *Biotech* & *Education*
+Hi! 👋 I'm **Diego**, a Data Scientist working at the intersection of **Machine Learning** :robot: and insdutries like Biotech & Education.   
+I’m passionate about designing and implementing solutions to solve real world needs, and I believe AI can accelerate human development and bridge social gaps, bringing societies to a more equal state.
 
 
-### Projects:
+My main **projects** are:
 - 🧠 [Synthia](https://github.com/dlopezyse/Synthia)
 - 🧬 [AI for Bio](https://github.com/dlopezyse/AI-for-Bio)
 
-### Content creation:
+I **create content** for:
 - [Pinecone](https://www.pinecone.io/learn/)
 - [Featureform](https://www.featureform.com/learn)
 - [Medium](https://medium.com/@lopezyse)
 
-### Hackathons:
+Some **hackathons** in which I participated are:
 - [**NVIDIA** - Building in Biotech (2022)](https://www.linkedin.com/feed/update/urn:li:activity:6999470390385225728/)
 - [**CERN** - WebFest (2021)](https://webfest.cern/node/345)
 - [Argentinos por la Educación (2020)](https://github.com/dlopezyse/Hackathon-ArgxEdu-2020)

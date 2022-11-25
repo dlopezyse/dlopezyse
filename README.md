@@ -6,7 +6,7 @@ My main **projects** are:
 - 🧠 [Synthia](https://github.com/dlopezyse/Synthia)
 - 🧬 [AI for Bio](https://github.com/dlopezyse/AI-for-Bio)
 
-I **create content** for:
+I **research** in:
 - [Pinecone](https://www.pinecone.io/learn/)
 - [Featureform](https://www.featureform.com/learn)
 - [Medium](https://medium.com/@lopezyse)

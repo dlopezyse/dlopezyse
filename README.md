@@ -12,10 +12,10 @@ I **research** in:
 - [Medium](https://medium.com/@lopezyse)
 
 Some **hackathons** in which I participated are:
-- [**NVIDIA** - Building in Biotech (2022)](https://www.linkedin.com/feed/update/urn:li:activity:6999470390385225728/)
-- [**CERN** - WebFest (2021)](https://webfest.cern/node/345)
+- [**NVIDIA** - Building in Biotech (2022) 🏆](https://www.linkedin.com/feed/update/urn:li:activity:6999470390385225728/)
+- [**CERN** - WebFest (2021) 🏆](https://webfest.cern/node/345)
 - [Argentinos por la Educación (2020)](https://github.com/dlopezyse/Hackathon-ArgxEdu-2020)
-- [**Falling Walls** - Breaking the Walls of Digital Gaps (2019)](https://www.utn.edu.ar/es/noticias-internacionales/noticias-eventos/falling-walls-lab-argentina-ganadores)
+- [**Falling Walls** - Breaking the Walls of Digital Gaps (2019) 🏆](https://www.utn.edu.ar/es/noticias-internacionales/noticias-eventos/falling-walls-lab-argentina-ganadores)
 
 
 I'm looking to develop and collaborate on new projects to transform the world around us.

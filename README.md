@@ -1,4 +1,4 @@
-Hi! 👋 I'm **Diego**, a *Singularity University* alumni and Data Scientist working at the intersection of **Machine Learning** :robot: and industries like Biotech & Education.   
+Hi! 👋 I'm **Diego**, a *Singularity University* alumni and *Data Scientist for Social Good (DSSG) Fellow* working at the intersection of **Machine Learning** :robot: and industries like Biotech & Education.   
 I’m passionate about designing and implementing solutions to solve real world needs, and I believe AI can accelerate human development and bridge social gaps, bringing societies to a more equal state.
 
 

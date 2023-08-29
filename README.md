@@ -5,8 +5,8 @@ See my **research**:
 - [Drug Repurposing Using Knowledge Graph Embeddings with a Focus on Vector-Borne Diseases: A Model Comparison](https://link.springer.com/chapter/10.1007/978-3-031-40942-4_8)
 
 My main **projects**:
-- 🧠 [Synthia](https://github.com/dlopezyse/Synthia)
 - 🧬 [AI for Bio](https://github.com/dlopezyse/AI-for-Bio)
+- 🧠 [Synthia](https://github.com/dlopezyse/Synthia)
 
 My **articles**:
 - [Pinecone](https://www.pinecone.io/learn/)

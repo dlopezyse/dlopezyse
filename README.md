@@ -6,6 +6,7 @@ See my **research**:
 
 My main **projects**:
 - 🧬 [AI for Bio](https://github.com/dlopezyse/AI-for-Bio)
+- 💊 [Drug repurposing using knowledge graph embeddings[(https://dr-using-kge.streamlit.app/#get-drugs-recommendations)
 - 🧠 [Synthia](https://github.com/dlopezyse/Synthia)
 
 My **articles**:

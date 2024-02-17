@@ -1,5 +1,6 @@
-Hi! 👋 I'm **Diego**, a *Singularity University* alumni and *Data Scientist for Social Good (DSSG)* fellow working at the intersection of **Machine Learning** :robot: and industries like Biotech & Education.   
-I’m passionate about designing and implementing solutions to solve real world needs, and I believe AI can accelerate human development and bridge social gaps, bringing societies to a more equal state.
+Hi! 👋 I'm **Diego**, a *Singularity University* alumni and *Data Scientist for Social Good (DSSG)* fellow working at the intersection of **Machine Learning** :robot: and industries like Biotech & Education.  
+I'm passionate about designing and implementing solutions to solve real-world needs, and I believe AI can accelerate human development and bridge social gaps, bringing societies to a more equal state.  
+I'm currently doing AI research at [Universidad Tecnológica Nacional(UTN)](https://frh.utn.edu.ar/)
 
 See my **research**:
 - [Drug Repurposing Using Knowledge Graph Embeddings with a Focus on Vector-Borne Diseases: A Model Comparison](https://link.springer.com/chapter/10.1007/978-3-031-40942-4_8)
@@ -22,7 +23,7 @@ I was part of:
 - [**Falling Walls** - Breaking the Walls of Digital Gaps (2019) 🏆](https://www.utn.edu.ar/es/noticias-internacionales/noticias-eventos/falling-walls-lab-argentina-ganadores)
 
 
-I'm looking to develop and collaborate on new projects to transform the world around us.
+I want to develop and collaborate on new projects to transform the world around us.
 Want to connect? Find me at <a href="https://www.linkedin.com/in/lopezyse">LinkedIn</a>, <a href="https://twitter.com/lopezyse">Twitter</a> and <a href="https://lopezyse.medium.com/">Medium</a>
 
 Saludos!

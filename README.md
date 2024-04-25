@@ -1,4 +1,4 @@
-Hi! 👋 I'm **Diego**, a *Singularity University* alumni and [*Data Science for Social Good (DSSG)*](https://www.youtube.com/watch?v=NOWofvaEsmk) fellow working at the intersection of **Machine Learning** :robot: and industries like Biotech & Education.  
+Hi! 👋 I'm **Diego**, a *Singularity University* alumni and *Data Science for Social Good (DSSG)* fellow working at the intersection of **Machine Learning** :robot: and industries like Biotech & Education.  
 I'm passionate about designing and implementing solutions to solve real-world needs, and I believe AI can accelerate human development and bridge social gaps, bringing societies to a more equal state.  
 Currently, I'm doing AI research at [Universidad Tecnológica Nacional (UTN)](https://frh.utn.edu.ar/) in Argentina.
 
@@ -16,6 +16,7 @@ My **articles**:
 - [Medium](https://medium.com/@lopezyse)
 
 I was part of:
+- [**Data Science for Social Good (DSSG)** - Fellowship (2023)](https://www.youtube.com/watch?v=NOWofvaEsmk)
 - [**NVIDIA** - Building in Biotech (2022) 🏆](https://www.linkedin.com/feed/update/urn:li:activity:6999470390385225728/)
 - [**CERN** - WebFest (2021) 🏆](https://webfest.cern/node/345)
 - [Argentinos por la Educación (2020)](https://github.com/dlopezyse/Hackathon-ArgxEdu-2020)

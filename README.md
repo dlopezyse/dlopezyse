@@ -1,6 +1,6 @@
 Hi! 👋 I'm **Diego**, a *Singularity University* alumni and *Data Science for Social Good (DSSG)* fellow working at the intersection of **Machine Learning** :robot: and industries like Biotech & Education.  
 I'm passionate about designing and implementing solutions to solve real-world needs, and I believe AI can accelerate human development and bridge social gaps, bringing societies to a more equal state.  
-Currently, I'm doing AI research at [Universidad Tecnológica Nacional (UTN)](https://frh.utn.edu.ar/) in Argentina.
+Currently, I'm doing AI research at *Universidad Tecnológica Nacional (UTN)* in Argentina.
 
 See my **research**:
 - [Drug Repurposing Using Knowledge Graph Embeddings with a Focus on Vector-Borne Diseases: A Model Comparison](https://link.springer.com/chapter/10.1007/978-3-031-40942-4_8)

@@ -1,6 +1,6 @@
 Hi! 👋 I'm **Diego**, AI Director @Moody's Local. I'm a *Singularity University* alumnus and *Data Science for Social Good (DSSG)* fellow working at the intersection of **Machine Learning** :robot: and industries like **Finance**, **Biotech** & **Education**.  
 I'm passionate about designing and implementing solutions to solve real-world needs, and I believe AI can accelerate human development and bridge social gaps, bringing societies to a more equal state.  
-Currently, I'm doing AI research at *Universidad Tecnológica Nacional (UTN)* in Argentina.
+Currently, I'm doing AI research at *National Technological University (UTN)* in Argentina.
 
 See my **research**:
 - [Drug Repurposing Using Knowledge Graph Embeddings with a Focus on Vector-Borne Diseases: A Model Comparison](https://link.springer.com/chapter/10.1007/978-3-031-40942-4_8)

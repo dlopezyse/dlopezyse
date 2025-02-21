@@ -27,7 +27,7 @@ I was part of:
 
 
 I want to develop and collaborate on new projects to transform the world around us.
-Want to connect? Find me at <a href="https://www.linkedin.com/in/lopezyse">LinkedIn</a>, <a href="https://twitter.com/lopezyse">Twitter</a> and <a href="https://lopezyse.medium.com/">Medium</a>
+Want to connect? Find me at <a href="https://www.linkedin.com/in/lopezyse">LinkedIn</a>, <a href="https://x.com/lopezyse">X</a> and <a href="https://lopezyse.medium.com/">Medium</a>
 
 Saludos!
 

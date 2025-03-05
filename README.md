@@ -1,6 +1,6 @@
 Hi! 👋 I'm **Diego**, AI Director @ Moody's Local.
 
-I'm a Machine Learning practitioner and researcher bridging AI with Finance, Biotech, and Education. Alumnus of *Singularity University* and former Data Science for Social Good (DSSG) Fellow at the *German Research Centre for Artificial Intelligence (DFKI)*. Currently conducting AI research at Argentina's *National Technological University (UTN)*.
+I'm a Machine Learning practitioner and researcher bridging AI with Finance, Biotech, and Education. Alumnus of *Singularity University* and former Data Science for Social Good (DSSG) Fellow at the *German Research Center for Artificial Intelligence (DFKI)*. Currently conducting AI research at Argentina's *National Technological University (UTN)*.
 
 I leverage Artificial Intelligence to accelerate human development and reduce societal inequalities, designing solutions that address real-world challenges.
 

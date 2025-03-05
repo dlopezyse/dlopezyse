@@ -19,7 +19,7 @@ My **articles**:
 - [Medium](https://medium.com/@lopezyse)
 
 I was part of:
-- [**Data Science for Social Good (DSSG)** - Fellowship (2023)](https://www.youtube.com/watch?v=NOWofvaEsmk)
+- [**German Research Center for Artificial Intelligence (DFKI)** - Fellowship (2023)](https://www.youtube.com/watch?v=NOWofvaEsmk)
 - [**NVIDIA** - Building in Biotech (2022) 🏆](https://www.linkedin.com/feed/update/urn:li:activity:6999470390385225728/)
 - [**CERN** - WebFest (2021) 🏆](https://webfest.cern/node/345)
 - [Argentinos por la Educación (2020)](https://github.com/dlopezyse/Hackathon-ArgxEdu-2020)

@@ -13,10 +13,9 @@ My main **projects**:
 - 💊 [Drug Repurposing Using Knowledge Graph Embeddings](https://github.com/dlopezyse/Drug-Repurposing-using-KGE)
 - 🧠 [Synthia](https://github.com/dlopezyse/Synthia)
 
-My **articles**:
-- [Pinecone](https://www.pinecone.io/learn/)
-- [Featureform](https://www.featureform.com/learn)
+My main **articles**:
 - [Medium](https://medium.com/@lopezyse)
+- [Pinecone](https://www.pinecone.io/learn/)
 
 I was part of:
 - [**German Research Center for Artificial Intelligence (DFKI)** - Fellowship (2023)](https://www.youtube.com/watch?v=NOWofvaEsmk)

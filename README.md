@@ -1,8 +1,6 @@
-Hi! 👋🏻 I'm **Diego**, AI Director @ Moody's Local.
+Hi! 👋🏻 I'm **Diego**, and I develop Machine Learning solutions that drive innovation and solve real-world challenges. My mission is to bridge research and practical applications to create a meaningful impact.
 
-I develop Machine Learning solutions that drive innovation and solve real-world challenges. My mission is to bridge research and practical applications to create meaningful impact.
-
-I'm an Alumnus of Singularity University and former Data Science for Social Good (DSSG) Fellow at the German Research Center for Artificial Intelligence (DFKI). Currently conducting AI research at Argentina's National Technological University (UTN).
+I'm an Alumnus of Singularity University and a former Data Science for Social Good (DSSG) Fellow at the German Research Center for Artificial Intelligence (DFKI). Currently conducting AI research at Argentina's National Technological University (UTN).
 
 
 See my **research**:

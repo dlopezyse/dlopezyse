@@ -16,6 +16,7 @@ My main **articles**:
 - [Pinecone](https://www.pinecone.io/learn/)
 
 I was part of:
+- [**MILA** - Fellowship (2025)](https://www.linkedin.com/feed/update/urn:li:activity:7321232714483843076/)
 - [**German Research Center for Artificial Intelligence (DFKI)** - Fellowship (2023)](https://www.youtube.com/watch?v=NOWofvaEsmk)
 - [**NVIDIA** - Building in Biotech (2022) 🏆](https://www.linkedin.com/feed/update/urn:li:activity:6999470390385225728/)
 - [**CERN** - WebFest (2021) 🏆](https://webfest.cern/node/345)

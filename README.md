@@ -1,6 +1,6 @@
 Hi! 👋🏻 I'm **Diego**, and I develop Machine Learning solutions that drive innovation and solve real-world challenges. My mission is to bridge research and practical applications to create a meaningful impact.
 
-I'm an Alumnus of Singularity University and a former Responsible AI Fellow at [MILA](https://mila.quebec/en) and Data Science for Social Good (DSSG) Fellow at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web). Currently conducting AI research at Argentina's National Technological University (UTN).
+I'm an Alumnus of Singularity University and a former Responsible AI Fellow at [MILA](https://mila.quebec/en) and Data Science for Social Good (DSSG) Fellow at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web). Currently leading AI research at Argentina's National Technological University (UTN).
 
 
 See my **research**:

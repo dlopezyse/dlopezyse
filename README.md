@@ -7,7 +7,8 @@ See my **research**:
 - [Drug Repurposing Using Knowledge Graph Embeddings with a Focus on Vector-Borne Diseases: A Model Comparison](https://link.springer.com/chapter/10.1007/978-3-031-40942-4_8)
 
 My main **projects**:
-- 🤖 [The Artificial Forest](https://dlopezyse.github.io/)
+- 🤖 [AI for Education](https://github.com/dlopezyse/AI-for-Education)
+- 🌲 [The Artificial Forest](https://dlopezyse.github.io/)
 - 🧬 [AI for Bio](https://github.com/dlopezyse/AI-for-Bio)
 - 💊 [Drug Repurposing Using Knowledge Graph Embeddings](https://github.com/dlopezyse/Drug-Repurposing-using-KGE)
 - 🧠 [Synthia](https://github.com/dlopezyse/Synthia)

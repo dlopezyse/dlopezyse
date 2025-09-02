@@ -1,7 +1,8 @@
-Hi! 👋🏻 I'm **Diego**, and I develop Machine Learning solutions that drive innovation and solve real-world challenges. My mission is to bridge research and practical applications to create a meaningful impact.
+Hi! 👋🏻 I'm **Diego**, and I lead AI solutions to address real-world challenges.
 
-I'm an Alumnus of Singularity University and a former Responsible AI Fellow at [MILA](https://mila.quebec/en) and Data Science for Social Good (DSSG) Fellow at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web). Currently leading AI research at Argentina's National Technological University (UTN).
+I launched the first AI Lab at Argentina's National Technological University (UTN) Haedo, established the first AI department for Moody's in Latin America, and developed AI technologies for the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web).
 
+My background includes a strong foundation in Machine Learning (MSc), a commitment to responsible AI ([MILA](https://mila.quebec/en) Fellow), and a forward-thinking perspective as a Singularity University alumnus.
 
 See my **research**:
 - [Drug Repurposing Using Knowledge Graph Embeddings with a Focus on Vector-Borne Diseases: A Model Comparison](https://link.springer.com/chapter/10.1007/978-3-031-40942-4_8)

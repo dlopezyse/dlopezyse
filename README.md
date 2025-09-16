@@ -4,21 +4,27 @@ I launched the first AI Lab at Argentina's National Technological University (UT
 
 My background includes a strong foundation in Machine Learning (MSc), a commitment to responsible AI ([MILA](https://mila.quebec/en) Fellow), and a forward-thinking perspective as a Singularity University alumnus.
 
-See my **research**:
+**RESEARCH**
 - [Drug Repurposing Using Knowledge Graph Embeddings with a Focus on Vector-Borne Diseases: A Model Comparison](https://link.springer.com/chapter/10.1007/978-3-031-40942-4_8)
 
-My main **projects**:
+In this paper, we compared seven knowledge graph embedding models (TransE, TransR, TransH, UM, DistMult, RESCAL, and ERMLP) applied to Drug Repurposing Knowledge Graph (DRKG), analyzing their predictive performance over seven different vector-borne diseases (dengue, chagas, malaria, yellow fever, leishmaniasis, filariasis, and schistosomiasis), measuring their embedding quality and external performance against a ground-truth.
+
+
+**PROJECTS**
 - 🤖 [AI for Education](https://github.com/dlopezyse/AI-for-Education)
 - 🌲 [The Artificial Forest](https://github.com/dlopezyse/dlopezyse.github.io)
 - 🧬 [AI for Bio](https://github.com/dlopezyse/AI-for-Bio)
 - 💊 [Drug Repurposing Using Knowledge Graph Embeddings](https://github.com/dlopezyse/Drug-Repurposing-using-KGE)
 - 🧠 [Synthia](https://github.com/dlopezyse/Synthia)
 
-My main **articles**:
+
+**ARTICLES**
 - [Medium](https://medium.com/@lopezyse)
 - [Pinecone](https://www.pinecone.io/learn/)
 
-I was part of:
+-----------------------------
+
+I was also part of:
 - [**MILA** - Fellowship (2025)](https://www.linkedin.com/feed/update/urn:li:activity:7321232714483843076/)
 - [**German Research Center for Artificial Intelligence (DFKI)** - Fellowship (2023)](https://www.youtube.com/watch?v=NOWofvaEsmk)
 - [**NVIDIA** - Building in Biotech (2022) 🏆](https://www.linkedin.com/feed/update/urn:li:activity:6999470390385225728/)

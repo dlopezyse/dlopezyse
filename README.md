@@ -12,7 +12,7 @@ In this paper, we compared seven knowledge graph embedding models (TransE, Trans
 
 **PROJECTS**
 - 🤖 [AI for Education](https://github.com/dlopezyse/AI-for-Education)
-- 🌲 [The Artificial Forest](https://github.com/dlopezyse/dlopezyse.github.io)
+- ✨ [Gesture Particles](https://dlopezyse.github.io/gesture-particles/)
 - 🧬 [AI for Bio](https://github.com/dlopezyse/AI-for-Bio)
 - 💊 [Drug Repurposing Using Knowledge Graph Embeddings](https://github.com/dlopezyse/Drug-Repurposing-using-KGE)
 - 🧠 [Synthia](https://github.com/dlopezyse/Synthia)
